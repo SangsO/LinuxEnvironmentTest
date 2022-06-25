@@ -1,0 +1,7 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "unistd.h": "c",
+        "server.h": "c"
+    }
+}
